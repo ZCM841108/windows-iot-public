@@ -147,6 +147,7 @@ Environments that use Windows Management Instrumentation (WMI) can use the MDM B
   Set-CimInstance -CimInstance $obj
 
   ```
+# How to check the Device  Real-Time Performance Working
 
 >[!TIP]
 >
